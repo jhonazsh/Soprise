@@ -1,0 +1,88 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+	background: #a7cfdf; /* Old browsers */
+background: -moz-linear-gradient(top, #a7cfdf 0%, #23538a 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a7cfdf), color-stop(100%,#23538a)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #a7cfdf 0%,#23538a 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #a7cfdf 0%,#23538a 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #a7cfdf 0%,#23538a 100%); /* IE10+ */
+background: linear-gradient(to bottom, #a7cfdf 0%,#23538a 100%); /* W3C */
+}
+
+.span12{
+	height:556px;
+}
+
+.span8{
+	height: 556px;
+}
+
+.log{
+
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgb(181, 231, 191);
+	height: 300px;
+	width: 400px;
+	border-radius: 3px;
+	-webkit-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    -moz-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+    position: relative;
+    padding-top: 40px;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.t{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.tw{
+	background-color: rgb(79, 79, 185);
+	width: 250px;
+	margin: 10px;
+	color: white;
+	padding: 10px;
+}
+
+.tw:hover{
+	background-color: rgb(110, 110, 177);
+}
+
+.fb{
+	width: 250px;
+	margin: 10px;
+	color:white;
+	background-color: rgb(145, 164, 221);
+	padding: 10px;
+}
+
+.fb:hover{
+	background-color: rgb(110, 110, 177);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
